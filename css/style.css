@@ -1,0 +1,80 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+
+#intro {
+    background-image: url(../bg_cover.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+body {
+    background-color: gray;
+}
+
+.top-nav-collapse {
+    background-color: rgb(27, 27, 27);
+}
+
+
+#blog-landing {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
+.content {
+    
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: auto;
+    position: relative;
+    border: 10px solid transparent;
+    overflow: hidden;
+
+}
+
+.desc {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    background-color: black;
+    width: 100%;
+    opacity: 0.5;
+
+
+}
+
+.desc:hover {
+    opacity: 1;
+}
+
+.content img:hover {
+    opacity: 0.4;
+    border-radius: 5px;
+    transform: scale(1.1);
+    transition: 2s linear;
+}
+
+p, h4 {
+    padding: 0;
+    margin: 0;
+}
+
+.img-gallery {
+    column-count: 5;
+}
+
+.img-gallery img {
+    width: 100%;
+    background-color: black;
+    position: relative;
+}
+
+

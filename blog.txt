@@ -1,0 +1,94 @@
+<!--blog statrt-->    
+        <section id="blog" class="mb-4">
+          <br>
+          <h4 class="my-4 font-weight-bold text-center mb-5">BLOGS</h4>
+          <!--row1--> 
+          <div class="row">
+              
+              <div class="col-lg-4 col-md-12 mb-4">
+                <div class="view overlay hm-white-slight z-depth-1=half">
+                  <img src="img/blogs/blog1.jpg" alt="" class="img-fluid">
+                  <div class="mask"></div>
+                </div>
+
+                <h4 class="my-4 font-weight-bold ">CLOUDED DAYS</h4><h6 class="grey-text">March 5, 2020</h6>
+                <p class="grey-text">On these clouded days, how do emotions stabilize?
+
+                  A tick of the clock envelopes the brain into the darker regions.
+                  
+                  Scan through, but an outcry is what I scream... <a href="blog1">read more..</a></p>
+              </div>
+
+              <div class="col-lg-4 col-md-12 mb-4">
+                <div class="view overlay hm-white-slight z-depth-1=half">
+                  <img src="img/blogs/blog2.jpg" alt="" class="img-fluid">
+                  <div class="mask"></div>
+                </div>
+
+                <h4 class="my-4 font-weight-bold ">WHAT IT FEELS LIKE (2)</h4><h6 class="grey-text">March 2, 2020</h6>
+                <p class="grey-text">Boljoon, August 2018
+                  A long arm has been stretching out as far as it could go.
+                  
+                  Swaying in & out, sideways, front & back, upwards & downwards...<a href="blog1">read more..</a></p>
+
+              </div>
+
+              <div class="col-lg-4 col-md-12 mb-4">
+                <div class="view overlay hm-white-slight z-depth-1=half">
+                  <img src="img/blogs/blog3.jpg" alt="" class="img-fluid">
+                  <div class="mask"></div>
+                </div>
+
+                <h4 class="my-4 font-weight-bold ">SINULOG FESTIVAL</h4><h6 class="grey-text">January 14, 2020</h6>
+                <p class="grey-text">Car-Car City Festival Queen 2019
+                  Sinulog Festival Queen 2019. Ever since I can remember, I have always been splendidly in love with the Sinulog Festival...<a href="blog1">read more..</a></p>
+
+              </div>
+        
+          <!--row1--> 
+
+          <!--row2--> 
+
+          
+
+		<div class="col-lg-4 col-md-12 mb-4">
+                <div class="view overlay hm-white-slight z-depth-1=half">
+                  <img src="img/blogs/blog4.jpg" alt="" class="img-fluid">
+                  <div class="mask"></div>
+                </div>
+
+                <h4 class="my-4 font-weight-bold ">SERENITEA'S JUMBO MILK TEA</h4><h6 class="grey-text">January 5, 2020</h6>
+                <p class="grey-text">I have been a member of the Milk Tea sensation way back 2012...<a href="blog1">read more..</a></p>
+              </div>
+
+            
+                  <div class="col-lg-4 col-md-12 mb-4">
+                <div class="view overlay hm-white-slight z-depth-1=half">
+                  <img src="img/blogs/blog5-a.jpg" alt="" class="img-fluid">
+                  <div class="mask"></div>
+                </div>
+     
+                <h4 class="my-4 font-weight-bold ">2019, FEASTS AND HOLIDAYS!</h4><h6 class="grey-text">December 8, 2019</h6>
+                <p class="grey-text">December has finally arrived and there’s nothing that beats this wonderful time of the year. 
+                  You would see in every nook and corner...<a href="blog1">read more..</a></p>
+              </div>           
+            
+              <div class="col-lg-4 col-md-12 mb-4">
+                <div class="view overlay hm-white-slight z-depth-1=half">
+                  <img src="img/blogs/blog6.jpg" alt="" class="img-fluid">
+                  <div class="mask"></div>
+                </div>
+
+                <h4 class="my-4 font-weight-bold ">ENEMIES</h4><h6 class="grey-text">November 28, 2019</h6>
+                <p class="grey-text">Bantayan, July 2018. “We are our own worst enemy.”
+
+                  -Chukwuka Obeleagu
+                  How can we even say that the statement above isn’t true?...<a href="blog1">read more..</a></p>
+              </div>     
+            </div>
+          </div>
+
+          <!--row2--> 
+
+        </section>
+      <!--blog statrt-->  
